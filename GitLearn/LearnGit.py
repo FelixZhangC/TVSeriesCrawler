@@ -1,12 +1,12 @@
-def foo():
+def Foo():
     pass
 
 
-def bar():
+def Bar():
     pass
 
 
-def baz():
+def Baz():
     pass
 
 
