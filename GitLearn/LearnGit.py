@@ -8,3 +8,7 @@ def bar():
 
 def baz():
     pass
+
+
+def Qux():
+    pass
